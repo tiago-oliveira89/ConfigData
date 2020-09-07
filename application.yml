@@ -10,20 +10,20 @@ words: Eu,Você,Ele,Ela,Aquilo,Aquela
 ---
 spring:
   profiles: verb
-words: ran,knew,had,saw,bought
+words: correu,sabia,teve,viu,comprou
 
 ---
 spring:
   profiles: article
-words: a,the
+words: o,a
 
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: razoável,vazando,suspeito,normal,diferente
 
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog       
+words: barco,livro,voto,assento,mochila,pedaço,cachorro       
       
